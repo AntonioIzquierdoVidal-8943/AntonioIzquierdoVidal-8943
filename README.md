@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hola, soy Antonio 👋
 
-<!--
-**AntonioIzquierdoVidal-8943/AntonioIzquierdoVidal-8943** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estoy en proceso de formación en tecnología, con foco en herramientas Microsoft
+y certificaciones oficiales.
 
-Here are some ideas to get you started:
+## 🎯 Formación actual
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📘 Microsoft Learn — rutas de aprendizaje oficiales
+- 🏫 PUE Academy — cursos especializados
+- 🏆 Certiport — certificaciones Microsoft (MCF)
+
+## 🛠️ Áreas de interés
+
+- Microsoft 365 y herramientas Office
+- Inteligencia Artificial aplicada
+- Tecnología educativa
+
+## 📫 Contacto
+
+- Email: aizquierdov.formacion@gmail.com
+
+---
+*Perfil en construcción — cada día un paso más* 🚀
